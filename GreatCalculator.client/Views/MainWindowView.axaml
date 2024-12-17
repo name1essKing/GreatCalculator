@@ -1,0 +1,18 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:views="clr-namespace:GreatCalculator.Client.Views"
+        xmlns:tabs="using:GreatCalculator.Client.Views.Tabs"
+        Background="#1e1e1e"
+        mc:Ignorable="d" d:DesignWidth="310" d:DesignHeight="500"
+        MinWidth="300" MinHeight="500"
+        Width="300" Height="500"
+        x:Class="GreatCalculator.Client.Views.MainWindowView"
+        Title="GreatCalculator.Client"
+        WindowStartupLocation="CenterOwner">
+	    
+	<Grid>
+		<tabs:CalculatorTabView DataContext="{Binding CalculatorTabViewModel}" />
+	</Grid>
+</Window>

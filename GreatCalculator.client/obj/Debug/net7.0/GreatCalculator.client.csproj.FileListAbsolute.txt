@@ -1,0 +1,7 @@
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\GreatCalculator.client.csproj.AssemblyReference.cache
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\Avalonia\resources
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\GreatCalculator.client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\GreatCalculator.client.AssemblyInfoInputs.cache
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\GreatCalculator.client.AssemblyInfo.cs
+C:\Users\d4nym\source\repos\GreatCalculator\GreatCalculator.client\obj\Debug\net7.0\GreatCalculator.client.csproj.CoreCompileInputs.cache
