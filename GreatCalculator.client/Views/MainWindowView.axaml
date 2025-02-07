@@ -13,6 +13,6 @@
         WindowStartupLocation="CenterOwner">
 	    
 	<Grid>
-		<tabs:CalculatorTabView DataContext="{Binding CalculatorTabViewModel}" />
+		<tabs:CalculatorTabView DataContext="{Binding CalculatorTabViewModel}"/>
 	</Grid>
 </Window>

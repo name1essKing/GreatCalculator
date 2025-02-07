@@ -17,5 +17,11 @@ build_property.ProjectDir = C:\Users\d4nym\source\repos\GreatCalculator\GreatCal
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[C:/Users/d4nym/source/repos/GreatCalculator/GreatCalculator.ui/Styles/Button.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/d4nym/source/repos/GreatCalculator/GreatCalculator.ui/Styles/Styles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d4nym/source/repos/GreatCalculator/GreatCalculator.ui/Styles/TextBox.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

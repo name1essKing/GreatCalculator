@@ -1,10 +1,14 @@
 <Styles xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <Design.PreviewWith>
-    <Border Padding="20">
-      <!-- Add Controls for Previewer Here -->
-    </Border>
-  </Design.PreviewWith>
+	<Design.PreviewWith>
+		<Border Padding="20">
+			<!-- Add Controls for Previewer Here -->
+		</Border>
+	</Design.PreviewWith>
 
-  <!-- Add Styles Here -->
+	<!-- Add Styles Here -->
+	<Styles>
+		<StyleInclude Source="avares://GreatCalculator.ui/Styles/Button.axaml"/>
+		<StyleInclude Source="avares://GreatCalculator.ui/Styles/TextBox.axaml"/>
+	</Styles>
 </Styles>

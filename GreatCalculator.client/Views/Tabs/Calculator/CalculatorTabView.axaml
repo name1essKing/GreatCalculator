@@ -1,18 +1,191 @@
-<Window xmlns="https://github.com/avaloniaui"
+<UserControl xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:operation="clr-namespace:GreatCalculator.Client.Views.Tabs"
-		mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		mc:Ignorable="d" d:DesignWidth="310" d:DesignHeight="500"
         x:Class="GreatCalculator.Client.Views.Tabs.CalculatorTabView">
-	<Grid>
-		<TextBox
-			Text="Алабуга"/>
+	<Grid RowDefinitions="100, *"
+		  Margin="1">
 
-		<Grid>
-			<Button
-				/>
+		<!-- Текстовое поле для отображения введенных данных. -->
+		<TextBox
+			Text="{Binding Result}"
+			Classes ="CalculatorTextBox"/>
+
+		<Grid Grid.Row="1"
+			  Margin="2"
+			  ColumnDefinitions="*,*,*,*"
+			  RowDefinitions="*,*,*,*,*,*">
+
+			<!-- Кнопки 0 - 9. -->
+			<Button Grid.Column="1" Grid.Row="5"
+					Classes="CalculatorButton"
+					Content="0"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>0</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+			
+			<Button Grid.Column="0" Grid.Row="4"
+					Classes="CalculatorButton"
+					Content="1"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>1</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="1" Grid.Row="4"
+					Classes="CalculatorButton"
+					Content="2"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>2</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+				
+
+			<Button Grid.Column="2" Grid.Row="4"
+					Classes="CalculatorButton"
+					Content="3"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>3</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+				
+
+			<Button Grid.Column="0" Grid.Row="3"
+					Classes="CalculatorButton"
+					Content="4"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>4</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="1" Grid.Row="3"
+					Classes="CalculatorButton"
+					Content="5"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>5</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="2" Grid.Row="3"
+					Classes="CalculatorButton"
+					Content="6"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>6</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="0" Grid.Row="2"
+					Classes="CalculatorButton"
+					Content="7"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>7</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="1" Grid.Row="2"
+					Classes="CalculatorButton"
+					Content="8"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>8</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+			<Button Grid.Column="2" Grid.Row="2"
+					Classes="CalculatorButton"
+					Content="9"
+					Command="{Binding Commands.AddNumber}">
+				<Button.CommandParameter>
+					<x:Int32>9</x:Int32>
+				</Button.CommandParameter>
+			</Button>
+
+
+			<!-- Очистка. -->
+			<Button Grid.Column="0" Grid.Row="0"
+					Classes="CalculatorButton"
+					Content="CE"
+					Command="{Binding Commands.ClearEntry}"/>
+			
+			<Button Grid.Column="1" Grid.Row="0"
+					Classes="CalculatorButton"
+					Content="C"
+					Command="{Binding Commands.ClearAll}"/>
+			
+			<Button Grid.Column="2" Grid.Row="0"
+					Classes="CalculatorButton"
+					Content="←--"
+					Command="{Binding Commands.Backspace}"
+					Grid.ColumnSpan="2"/>
+
+			<!-- Операции. -->
+			<Button Grid.Column="0" Grid.Row="1"
+					Classes="CalculatorButton"
+					Content="1/x"
+					Command="{Binding Commands.ChangeToDivider}"/>
+
+			<Button Grid.Column="1" Grid.Row="1"
+					Classes="CalculatorButton"
+					Content="x²"
+					Command="{Binding Commands.Square}"/>
+
+			<Button Grid.Column="2" Grid.Row="1"
+					Classes="CalculatorButton"
+					Content="√x"
+					Command="{Binding Commands.SquareRoot}"/>
+
+			<Button Grid.Column="3" Grid.Row="1"
+					Classes="CalculatorButton"
+					Content="÷"
+					Command="{Binding Commands.PerformOperation}"
+					CommandParameter="{x:Static operation:OperationEnum.Divide}"/>
+
+			<Button Grid.Column="3" Grid.Row="2"
+					Classes="CalculatorButton"
+					Content="x"
+					Command="{Binding Commands.PerformOperation}"
+					CommandParameter="{x:Static operation:OperationEnum.Multiply}"/>
+
+			<Button Grid.Column="3" Grid.Row="3"
+					Classes="CalculatorButton"
+					Content="-"
+					Command="{Binding Commands.PerformOperation}"
+					CommandParameter="{x:Static operation:OperationEnum.Minus}"/>
+
+			<Button Grid.Column="3" Grid.Row="4"
+					Classes="CalculatorButton"
+					Content="+"
+					Command="{Binding Commands.PerformOperation}"
+					CommandParameter="{x:Static operation:OperationEnum.Plus}"/>
+
+			<Button Grid.Column="0" Grid.Row="5"
+					Classes="CalculatorButton"
+					Content="+/-"
+					Command="{Binding Commands.Reverse}"/>
+			
+			<Button Grid.Column="2" Grid.Row="5"
+					Classes="CalculatorButton"
+					Content="."
+					Command="{Binding Commands.Dot}"/>
+
+			<!-- Результат. -->
+			<Button Grid.Column="3" Grid.Row="5"
+					Classes="CalculatorButton"
+					Content="="
+					Command="{Binding Commands.PerformOperation}"
+					CommandParameter="{x:Static operation:OperationEnum.Result}"/>
 
 		</Grid>
 	</Grid>
-</Window>
+</UserControl>
