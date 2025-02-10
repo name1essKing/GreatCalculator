@@ -7,12 +7,44 @@
       "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\calculatortabviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\calculatortabviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\calculatortabviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\operationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\operationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\calculatortabview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\calculatortabview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\calculatortabviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\calculatortabviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\modules\\viewmodelmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\modules\\viewmodelmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\greatcalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\greatcalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -20,18 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BEB5CFC-BBEE-4F55-97D6-533B978E513E}|GreatCalculator.ui\\GreatCalculator.ui.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.ui\\styles\\button.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{5BEB5CFC-BBEE-4F55-97D6-533B978E513E}|GreatCalculator.ui\\GreatCalculator.ui.csproj|solutionrelative:greatcalculator.ui\\styles\\button.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\operationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\tabs\\calculator\\operationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BEB5CFC-BBEE-4F55-97D6-533B978E513E}|GreatCalculator.ui\\GreatCalculator.ui.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.ui\\styles\\textbox.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -58,14 +78,6 @@
       "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowviewmodel.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\Styles\\Styles1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GreatCalculator.ui\\Styles\\Styles1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
@@ -77,20 +89,8 @@
       "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\mainwindowview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\views\\mainwindowview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BEB5CFC-BBEE-4F55-97D6-533B978E513E}|GreatCalculator.ui\\GreatCalculator.ui.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.ui\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BEB5CFC-BBEE-4F55-97D6-533B978E513E}|GreatCalculator.ui\\GreatCalculator.ui.csproj|solutionrelative:greatcalculator.ui\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\greatcalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\greatcalculator.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\modules\\viewmodelmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|solutionrelative:greatcalculator.client\\modules\\viewmodelmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9E73560-AA47-401C-8856-E8DCC74A8432}|GreatCalculator.client\\GreatCalculator.client.csproj|c:\\users\\d4nym\\source\\repos\\greatcalculator\\greatcalculator.client\\views\\tabs\\calculator\\calculatortabview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -120,15 +120,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAANsSAAAAAAAAAAAAAPgSAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-04T22:20:24.983Z"
+              "DocumentIndex": 1,
+              "Title": "CalculatorTabViewModel.Commands.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:36:11.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -136,83 +137,12 @@
               "Title": "CalculatorTabViewModel.cs",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs",
               "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs*",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwIsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:42:42.322Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatorTabView.axaml",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T17:04:46.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\app.manifest",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\app.manifest",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\app.manifest",
-              "RelativeToolTip": "GreatCalculator.client\\app.manifest",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2024-12-11T17:01:08.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowViewModel.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T02:14:13.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculatorTabViewModel.Commands.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabViewModel.Commands.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAA8wFcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:36:11.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Program.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Program.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Program.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:01:21.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindowView.axaml",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowView.axaml",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T17:03:05.591Z"
             },
             {
               "$type": "Document",
@@ -224,11 +154,136 @@
               "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\OperationEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T00:53:26.14Z"
+              "WhenOpened": "2024-12-30T00:53:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:03:05.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MainWindowViewModel.Commands.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:36:52.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:14:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowView.axaml",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowView.axaml",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T17:03:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorTabView.axaml",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
+              "RelativeToolTip": "GreatCalculator.client\\Views\\Tabs\\Calculator\\CalculatorTabView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T17:04:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelModule.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Modules\\ViewModelModule.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Modules\\ViewModelModule.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Modules\\ViewModelModule.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Modules\\ViewModelModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:22:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GreatCalculator.client.csproj",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\GreatCalculator.client.csproj",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\GreatCalculator.client.csproj",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\GreatCalculator.client.csproj",
+              "RelativeToolTip": "GreatCalculator.client\\GreatCalculator.client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T23:21:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Program.cs",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\Program.cs",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Program.cs",
+              "RelativeToolTip": "GreatCalculator.client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:01:21.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\app.manifest",
+              "RelativeDocumentMoniker": "GreatCalculator.client\\app.manifest",
+              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\app.manifest",
+              "RelativeToolTip": "GreatCalculator.client\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-12-11T17:01:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANsSAAAAAAAAAAAAAPgSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-04T22:20:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Button.axaml",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\Styles\\Button.axaml",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\Styles\\Button.axaml",
@@ -239,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Styles.axaml",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\Styles\\Styles.axaml",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\Styles\\Styles.axaml",
@@ -250,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "TextBox.axaml",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\Styles\\TextBox.axaml",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\Styles\\TextBox.axaml",
@@ -261,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ReactiveViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\ReactiveViewModelBase.cs",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\ReactiveViewModelBase.cs",
@@ -273,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "GreatCalculator.ui.csproj",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\GreatCalculator.ui.csproj",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\GreatCalculator.ui.csproj",
@@ -286,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "App.axaml",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\App.axaml",
               "RelativeDocumentMoniker": "GreatCalculator.client\\App.axaml",
@@ -297,19 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindowViewModel.Commands.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowViewModel.Commands.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T13:36:52.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\App.axaml.cs",
               "RelativeDocumentMoniker": "GreatCalculator.client\\App.axaml.cs",
@@ -321,19 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainWindowView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Views\\MainWindowView.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T17:03:05.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\ViewModelBase.cs",
@@ -345,32 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GreatCalculator.client.csproj",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\GreatCalculator.client.csproj",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\GreatCalculator.client.csproj",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\GreatCalculator.client.csproj",
-              "RelativeToolTip": "GreatCalculator.client\\GreatCalculator.client.csproj",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T23:21:45.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ViewModelModule.cs",
-              "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Modules\\ViewModelModule.cs",
-              "RelativeDocumentMoniker": "GreatCalculator.client\\Modules\\ViewModelModule.cs",
-              "ToolTip": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.client\\Modules\\ViewModelModule.cs",
-              "RelativeToolTip": "GreatCalculator.client\\Modules\\ViewModelModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T23:22:10.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Styles1.axaml",
               "DocumentMoniker": "C:\\Users\\d4nym\\source\\repos\\GreatCalculator\\GreatCalculator.ui\\Styles\\Styles1.axaml",
               "RelativeDocumentMoniker": "GreatCalculator.ui\\Styles\\Styles1.axaml",
@@ -429,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",

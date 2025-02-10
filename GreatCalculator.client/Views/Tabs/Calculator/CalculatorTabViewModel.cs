@@ -15,7 +15,7 @@ namespace GreatCalculator.Client.Views.Tabs
     {
         private double _firstValue;  // поле для первого значения в операции.
         private double _secondValue; // поле для второго значения в операции.
-        private string _result;     // поле для хранения результата.
+        private string _result = "0";     // поле для хранения результата.
         private OperationEnum _operator = OperationEnum.Plus;  // Операция по умолчанию (сложение).
         private bool _operatorChecker; // Флаг, указывающий, что операция выполнена.
 
@@ -32,9 +32,7 @@ namespace GreatCalculator.Client.Views.Tabs
         /// Конструктор, инициализирующий результат значением "0".
         /// </summary>
         public CalculatorTabViewModel()
-        {
-            Result = "0";
-        }
+        {}
 
         /// <summary>
         /// Добавляет число к текущему результату.
@@ -61,7 +59,8 @@ namespace GreatCalculator.Client.Views.Tabs
         /// </summary>
         public void ClearAll()
         {
-            _firstValue = _secondValue = 0;
+            _firstValue = 0; 
+            _secondValue = 0;
             Result = "0";
         }
 
@@ -124,8 +123,10 @@ namespace GreatCalculator.Client.Views.Tabs
         /// Добавляет точку к результату.
         /// </summary>
         public void Dot()
-        {
-            Result += ".";
+        {   if(!Result.Contains("."))
+            {
+                Result += ".";
+            }
         }
 
         /// <summary>
