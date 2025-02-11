@@ -3,10 +3,13 @@
 *.pdb
 bin/
 obj/
-
 *.exe
 *.dll
 *.pdb
 *.cache
 *.sourcelink.json
 *.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.assets.cache
+
+
