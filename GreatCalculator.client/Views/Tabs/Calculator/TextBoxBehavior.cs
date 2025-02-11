@@ -55,7 +55,7 @@ namespace GreatCalculator.Client.Views.Tabs
                 // Если длина текста больше 1, удаляем последний символ
                 if (textBox.Text.Length > 1)
                 {
-                    // Ничего не блокируем, так как символ будет удален по одному
+                    // Символ будет удален по одному
                 }
                 else if (textBox.Text.Length == 1 && int.TryParse(textBox.Text, out int value) && value >= 1 && value <= 9)
                 {
@@ -63,8 +63,15 @@ namespace GreatCalculator.Client.Views.Tabs
                     textBox.Text = "0";
                     e.Handled = true; // Блокируем дальнейшую обработку (удаление символа)
                 }
+                else if (string.IsNullOrEmpty(textBox.Text) || textBox.Text.Length == 1)
+                {
+                    // Если длина текста == 1, не разрешаем удалить
+                    e.Handled = true;  // Блокируем удаление, оставляем текст "0"
+                }
             }
         }
+
+
 
         private void OnTextInput(object sender, TextInputEventArgs e)
         {
