@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreatCalculator.ui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74314601cb240eaef75a6171d04e61339c708f6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15aceee215061677c8c1266ed39d5e6d395f541")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreatCalculator.ui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreatCalculator.ui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

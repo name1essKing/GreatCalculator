@@ -10,6 +10,7 @@
 
 		<!-- Текстовое поле для отображения введенных данных. -->
 		<TextBox
+			x:Name="CalculatorTextBox"
 			Text="{Binding Result}"
 			Classes ="CalculatorTextBox"/>
 
