@@ -8,8 +8,6 @@ obj/
 *.pdb
 *.cache
 *.sourcelink.json
-*.AssemblyInfo.cs
-*.AssemblyInfoInputs.cache
-*.assets.cache
-
-
+GreatCalculator.client.AssemblyInfo.cs
+GreatCalculator.client.AssemblyInfoInputs.cache
+GreatCalculator.client.assets.cache
