@@ -160,6 +160,7 @@ namespace GreatCalculator.Client.Views.Tabs
                         {
                             break;
                         }
+                        
                         else
                         {
                             _firstValue *= _secondValue;

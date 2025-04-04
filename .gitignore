@@ -11,3 +11,6 @@ obj/
 GreatCalculator.client.AssemblyInfo.cs
 GreatCalculator.client.AssemblyInfoInputs.cache
 GreatCalculator.client.assets.cache
+*.dll
+*.exe
+GreatCalculator.client/obj/Debug/net7.0/GreatCalculator.client.sourcelink.json
