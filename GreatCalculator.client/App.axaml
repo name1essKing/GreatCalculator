@@ -6,6 +6,6 @@
 
 	<Application.Styles>
 		<FluentTheme />
-		<StyleInclude Source="avares://GreatCalculator.ui/Styles/Styles.axaml" />
+		<StyleInclude Source="avares://GreatCalculator.UI/Styles/Styles.axaml" />
 	</Application.Styles>
 </Application>

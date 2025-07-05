@@ -1,13 +1,9 @@
-﻿using System;
-using System.Linq;
-using System.Reflection;
-
-using Avalonia.Controls;
+﻿using Avalonia.Controls;
 using Avalonia.Controls.Templates;
 using Avalonia.Layout;
 using GreatCalculator.ui;
 
-namespace GreatCalculator.ui
+namespace GreatCalculator.UI
 
 {
     /// <summary>

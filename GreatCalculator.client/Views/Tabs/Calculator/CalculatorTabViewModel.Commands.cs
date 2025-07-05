@@ -1,7 +1,5 @@
 ﻿using ReactiveUI;
-using System;
 using System.Reactive;
-using System.Threading.Tasks;
 
 namespace GreatCalculator.Client.Views.Tabs
 {

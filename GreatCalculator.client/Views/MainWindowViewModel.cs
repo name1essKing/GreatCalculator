@@ -1,11 +1,5 @@
-﻿using GreatCalculator.ui;
-using GreatCalculator.Client.Views.Tabs;
-using ReactiveUI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using GreatCalculator.Client.Views.Tabs;
+using GreatCalculator.ui;
 namespace GreatCalculator.Client.Views
 {
 

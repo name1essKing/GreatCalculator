@@ -3,9 +3,6 @@
 *.pdb
 bin/
 obj/
-*.exe
-*.dll
-*.pdb
 *.cache
 *.sourcelink.json
 GreatCalculator.client.AssemblyInfo.cs
@@ -13,4 +10,9 @@ GreatCalculator.client.AssemblyInfoInputs.cache
 GreatCalculator.client.assets.cache
 *.dll
 *.exe
+**/*.dll
+**/*.json
+**/*.cache
+**/Debug/
+**/Release/
 GreatCalculator.client/obj/Debug/net7.0/GreatCalculator.client.sourcelink.json

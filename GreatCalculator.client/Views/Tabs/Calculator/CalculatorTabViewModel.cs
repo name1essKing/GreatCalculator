@@ -1,9 +1,5 @@
-﻿using Avalonia.Controls;
-using GreatCalculator.ui;
+﻿using GreatCalculator.ui;
 using ReactiveUI;
-using System;
-using System.ComponentModel;
-using Microsoft.CodeAnalysis;
 
 namespace GreatCalculator.Client.Views.Tabs
 {

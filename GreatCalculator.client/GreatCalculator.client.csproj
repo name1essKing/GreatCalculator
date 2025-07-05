@@ -22,7 +22,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\GreatCalculator.ui\GreatCalculator.ui.csproj" />
+		<ProjectReference Include="..\GreatCalculator.UI\GreatCalculator.UI.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

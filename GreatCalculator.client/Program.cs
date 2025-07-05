@@ -1,5 +1,4 @@
 ﻿using Avalonia;
-using System;
 using Avalonia.ReactiveUI;
 
 namespace GreatCalculator.Client
